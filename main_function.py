@@ -22,6 +22,7 @@ while True:
         metoda_backtracking_python()
     elif c.upper() == 'I':
         print("Fulga Sergiu-Sebastian")
+        print("github.com/sebastianfulga")
     elif c.upper() == 'X':
         print("<terminare app>")
         exit()
